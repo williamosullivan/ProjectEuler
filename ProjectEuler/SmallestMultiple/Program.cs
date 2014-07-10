@@ -10,7 +10,7 @@ namespace SmallestMultiple
     {
         static void Main(string[] args)
         {
-            for (long i = 1; i < 99999999999999999; i++)
+            for (long i = 2520; i < 99999999999999999; i++)
             {
                 if (i % 20 == 0)
                     if (i % 19 == 0)
